@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tfy\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_fd43bb5555ac4394a5a76524904dbc803c1474c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_fb35e2b7d682f015361f6d0095d2b3b4c04d404c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c3503ce523d8fb77b731f4c93e275453caa03f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_990e8bade54cec938af3b9d972c0cb602a58eb7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tfy\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_26b859c499bc0cc65fa60def44e2c688c3d6763a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_75aa503ef4f78cea3507905ce275bdaf6f8fbba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_1b60be3efb6e15f2b6475a812eb8ecc3f7dd052b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8fcd4fbb9d1ef211c8a07da23562d4c732307bb">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75e1e5fdc85efc1dc0799b6d69179fc34f318134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4d9a19d1ab5cb228de9923041eb7af125139f1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1b3666a4532a08e7d81ce3bbc04bb02f0ce0ec9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6894af6eef2bc779a3a849447706dc84df4773d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f7b1dee82a1b227f9cebcc4e1f5f1ce093c36adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="796e76630c0980cd07a282cf0ce56eb6e52e1574">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4097d050c26b55c45ab132e7b16b201adce3bdf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Software\ProgramTools\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_58e0433fb94cbfed180e39fa7bb3ba44a6f8ee76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1815921419873091fac9ee3f7767c1c9ad68d4c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3db888950a9c52d38ed90c7f0940c5bd7c625219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6224aa0999279b1942eaa2b3fb170fbc260ac4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_38f73e88d686c78ea3509c189b73eb34d9b3e9ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Code\Github\Unwraping\Unwraping\Unwraping\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_420f15f2076437e1af48d3c67ce2dd4b7d3e0d72\classes.dex" />
+    </item>
+
+</items>
